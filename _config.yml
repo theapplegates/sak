@@ -15,8 +15,8 @@ url: "https://sakura.abts.io"
 
 # Algolia Search
 algolia:
-  application_id: 4P42FOBOZA # Use your (non-admin) search only api key here.
-  index_name: sakura #Use an index you created on Algolia.
+  application_id: W9YQ1LVEWS # Use your (non-admin) search only api key here.
+  index_name: index #Use an index you created on Algolia.
 
 # Collections
 collections:
